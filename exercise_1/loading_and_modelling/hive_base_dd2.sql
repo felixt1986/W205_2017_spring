@@ -1,6 +1,6 @@
-DROP TABLE hospitals;
+DROP TABLE effective_care;
 
-CREATE EXTERNAL TABLE hospitals
+CREATE EXTERNAL TABLE effective_care
 (
   provider_id string,
   hospital_name string,

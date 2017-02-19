@@ -1,6 +1,6 @@
-DROP TABLE hospitals;
+DROP TABLE measures;
 
-CREATE EXTERNAL TABLE hospitals
+CREATE EXTERNAL TABLE measures
 (
   measure_name string,
   measure_id string,

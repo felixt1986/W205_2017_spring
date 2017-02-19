@@ -1,6 +1,6 @@
-DROP TABLE hospitals;
+DROP TABLE surveys_responses;
 
-CREATE EXTERNAL TABLE hospitals
+CREATE EXTERNAL TABLE surveys_responses
 (
   provider_id string,
   hospital_name string,
@@ -85,6 +85,6 @@ WITH SERDEPROPERTIES(
   "escapeChar"="\\"
 )
 STORED AS TEXTFILE
-LOCATION "/user/w205/hospital_compare/surveys_responses"
+LOCATION "/user/w205/hospital_compare/surveys_response"
 ;
 

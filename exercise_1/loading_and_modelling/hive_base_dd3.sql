@@ -1,6 +1,6 @@
-DROP TABLE hospitals;
+DROP TABLE readmissions;
 
-CREATE EXTERNAL TABLE hospitals
+CREATE EXTERNAL TABLE readmissions
 (
   provider_id string,
   hospital_name string,
