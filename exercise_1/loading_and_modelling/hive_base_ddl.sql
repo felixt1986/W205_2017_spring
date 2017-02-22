@@ -1,4 +1,4 @@
-source /home/w205/tsui_felix/w205_2017_spring/exercise_1/loading_and_modelling/hive_bas_dd1.sql;
+source /home/w205/tsui_felix/w205_2017_spring/exercise_1/loading_and_modelling/hive_base_dd1.sql;
 
 source /home/w205/tsui_felix/w205_2017_spring/exercise_1/loading_and_modelling/hive_base_dd2.sql;
 

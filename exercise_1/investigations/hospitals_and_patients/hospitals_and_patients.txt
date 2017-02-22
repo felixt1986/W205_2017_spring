@@ -1,0 +1,3 @@
+0.33
+
+In this questions, I used the weighted average score from my hospitals_score_table to compute the correlation with the overall rating of hospital performance rate from the survey_transform_table (where I filter out the needed columns from the survey_response table).  

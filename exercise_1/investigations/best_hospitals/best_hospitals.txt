@@ -1,0 +1,15 @@
+HOSPITAL NAME                                          STATE       AGGREGATE SCORE     WEIGHTED AVERAGE SCORE   
+SARASOTA MEMORIAL HOSPITAL                        	FL	          13	                1.0
+MEMORIAL MISSION HOSPITAL AND ASHEVILLE SURGERY CE	NC                11	                0.8375
+MEMORIAL HERMANN HOSPITAL SYSTEM	                TX	          10	                0.8125
+MAYO CLINIC HOSPITAL	                                AZ	          10	                0.8125
+METHODIST HOSPITAL,THE	                                TX	          10	                0.8125
+ST LUKE'S REGIONAL MEDICAL CENTER	                ID	          10	                0.8125
+MAYO CLINIC HOSPITAL ROCHESTER	                        MN	          10 	                0.8125
+ST ALEXIUS MEDICAL CENTER	                        IL	          10	                0.775
+NEW YORK-PRESBYTERIAN HOSPITAL	                        NY	          10	                0.775
+ST ALEXIUS MEDICAL CENTER	                        ND	          10	                0.775
+
+These are the top ten hospitals with the highest quality of care. Each hospital is evaluated in two parts. The hospital overall rating in General Hospital Information table is set out of 5 and represents 50% of the weighting. The compared to national ranking (for every procedure that shows Better than national rate 1 point is awarded) is set out of 8 (since the hospital with the highest score in this section is 8) from the Readmission table represents the other 50% of the weighting. In some cases the aggregate score is the same but because the same 1 point is worth more in the first weighting category, there is a difference in weighted average score.
+
+

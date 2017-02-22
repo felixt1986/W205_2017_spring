@@ -1,0 +1,13 @@
+STATE  # of HOSPITALS   AVERAGE SCORE
+ AR	     74	           0.625
+ SC	     60	           0.5729
+ MN	     131	   0.5517
+ ID	     41	           0.5468
+ OK	     123	   0.5361
+ ND	     44	           0.5333
+ RI	     11	           0.525
+ SD	     60            0.5203
+ HI	     23	           0.5166
+ KY          94   	   0.5027
+
+These are the 10 states with the highest quality of care. In this question, we first removed states that had less than 10 hospitals because the sample size is too small and could be easily skewed by one or two outliers. From the remainder, we averaged the weighted average sore of all the hospitals in each state to comute the average sore for each state.
