@@ -4,7 +4,6 @@ from collections import Counter
 from streamparse.bolt import Bolt
 
 
-
 class WordCounter(Bolt):
 
     def initialize(self, conf, ctx):
@@ -18,7 +17,7 @@ class WordCounter(Bolt):
         # Database name: Tcount 
         # Table name: Tweetwordcount 
         # you need to create both the database and the table in advance.
-        
+        execfile("/home/w205/w205_2017_spring/exercise_2/extweetwordcount/src/bolts/psycopg.py")
 
         # Increment the local count
         self.counts[word] += 1
